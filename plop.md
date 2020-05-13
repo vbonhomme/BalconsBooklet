@@ -7,4 +7,5 @@ layout: default
 
 some text here
 
-{% __README.md %}
+{% __README.html %}
+
